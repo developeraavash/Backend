@@ -1,0 +1,12 @@
+fastapi==0.116.1
+uvicorn[standard]==0.35.0
+pydantic==2.11.7
+pydantic-settings==2.10.1
+python-dotenv==1.1.1
+requests==2.32.4
+urllib3==2.5.0
+nepse-scraper==0.1.7
+beautifulsoup4==4.13.4
+deep-translator==1.11.4
+google-genai==1.30.0
+nepse==0.1.7
